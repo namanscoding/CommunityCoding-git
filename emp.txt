@@ -1,0 +1,97 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6EFA-ACEB
+
+ Directory of c:\naman
+
+14-09-2022  09:58    <DIR>          .
+14-09-2022  09:58    <DIR>          ..
+14-09-2022  09:59                 0 emp.txt
+13-09-2022  17:54    <DIR>          rahul
+               1 File(s)              0 bytes
+
+ Directory of c:\naman\.git
+
+14-09-2022  09:47               130 config
+14-09-2022  09:47                73 description
+14-09-2022  09:47                23 HEAD
+14-09-2022  09:47    <DIR>          hooks
+14-09-2022  09:47    <DIR>          info
+14-09-2022  09:47    <DIR>          objects
+14-09-2022  09:47    <DIR>          refs
+               3 File(s)            226 bytes
+
+ Directory of c:\naman\.git\hooks
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+14-09-2022  09:47               478 applypatch-msg.sample
+14-09-2022  09:47               896 commit-msg.sample
+14-09-2022  09:47             4,726 fsmonitor-watchman.sample
+14-09-2022  09:47               189 post-update.sample
+14-09-2022  09:47               424 pre-applypatch.sample
+14-09-2022  09:47             1,643 pre-commit.sample
+14-09-2022  09:47               416 pre-merge-commit.sample
+14-09-2022  09:47             1,374 pre-push.sample
+14-09-2022  09:47             4,898 pre-rebase.sample
+14-09-2022  09:47               544 pre-receive.sample
+14-09-2022  09:47             1,492 prepare-commit-msg.sample
+14-09-2022  09:47             2,783 push-to-checkout.sample
+14-09-2022  09:47             3,650 update.sample
+              13 File(s)         23,513 bytes
+
+ Directory of c:\naman\.git\info
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+14-09-2022  09:47               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of c:\naman\.git\objects
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+14-09-2022  09:47    <DIR>          info
+14-09-2022  09:47    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\.git\objects\info
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\.git\objects\pack
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\.git\refs
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+14-09-2022  09:47    <DIR>          heads
+14-09-2022  09:47    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\.git\refs\heads
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\.git\refs\tags
+
+14-09-2022  09:47    <DIR>          .
+14-09-2022  09:47    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\naman\rahul
+
+13-09-2022  17:54    <DIR>          .
+13-09-2022  17:54    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              18 File(s)         23,979 bytes
+              29 Dir(s)  429,996,855,296 bytes free
